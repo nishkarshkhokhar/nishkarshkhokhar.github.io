@@ -37,6 +37,19 @@ ol, ul {
 	list-style: none;
 }
 
+{
+  scroll-behavior: smooth;
+}
+ 
+ a {
+  text-decoration: none;
+  color: black;
+} 
+ 
+ #down {
+  margin-top: 100%;
+  padding-bottom: 25%;
+}
 blockquote, q {
 	quotes: none;
 }
@@ -8601,3 +8614,4 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
